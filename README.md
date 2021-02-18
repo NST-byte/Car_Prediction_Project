@@ -14,3 +14,5 @@
 3. Random Forest 
 * This is a model that builds on decision trees by combining a large number of decision tree to calculate the prediction, this model tends to be more biased but the results have less variance
 * R^2 score of 0.88 and RMSE of 2717 (after tuning of parameters)
+
+![](https://github.com/NST-byte/Car_Prediction_Project/blob/main/boxplots.PNG)
