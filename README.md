@@ -15,4 +15,6 @@
 * This is a model that builds on decision trees by combining a large number of decision tree to calculate the prediction, this model tends to be more biased but the results have less variance
 * R^2 score of 0.88 and RMSE of 2717 (after tuning of parameters)
 
-![](https://github.com/NST-byte/Car_Prediction_Project/blob/main/boxplots.PNG)
+![3_models](https://user-images.githubusercontent.com/67882633/109438921-38aa0080-7a80-11eb-8452-c5defbcea1ae.PNG)
+
+![boxplots](https://user-images.githubusercontent.com/67882633/109438932-4a8ba380-7a80-11eb-8688-728b6b4115fa.PNG)
