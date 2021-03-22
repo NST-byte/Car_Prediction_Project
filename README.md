@@ -22,4 +22,4 @@
 
 4. A neural network was also built using tensorflow to see if it would show any improvement. The result was a root mean squared error of 2882 which is better than the first 2 models, however it was outperformed by the Random Forest model. This suggests that as was hypothesised Random Forests often out-perform neural networks when using such datasets.
 
-5. The final model created was an XGBoost model, this was created as it is one the most popular currently used models and could very well be better than the Random Forest. The results suggested that exact thing and the accuracy was improved, the root mean squared error end up being 2492, which is slightly better than the Random Forest. This model could be further tuned to even further reduce the error.
+5. The final model created was an XGBoost model, this was created as it is one the most popular currently used models and could very well perform better than the Random Forest. The results suggested that exact thing and the accuracy was improved, the root mean squared error end up being 2492, which is slightly better than the Random Forest. This model could be further tuned to even further reduce the error.
